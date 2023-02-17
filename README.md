@@ -1,4 +1,4 @@
-# Web3 feed for all gamers
+# feedbeats - Web3 feed for all gamers -
 
 ## Background 
 ### Hackathon
@@ -89,9 +89,3 @@ Engine for on-chain gaming
 * web: https://mud.dev/
 * github: https://github.com/latticexyz/mud
 * twitter: https://twitter.com/latticexyz
-
-
-### ENS
-* website: 
-* doc: https://docs.ens.domains/
-    * create subdomains: https://docs.ens.domains/dapp-developer-guide/managing-names#creating-subdomains
